@@ -1,0 +1,4 @@
+[h1][b] Heart Attack [/b][/h1]
+A mod which uses the Health Data Server Apple Watch app to moniter your heartrate and kill you if it exceeds a certain thershold.
+
+Unfortunately, I do not have an Apple Watch, so I am unsure of what needs to be done for setup. As far as I know, set the IP on the app to that of your PC and the port to whichever port is set in the mod config. Make sure that only the heartrate is sent by the app.

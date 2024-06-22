@@ -1,0 +1,4 @@
+displayName = Heart Attack
+author = Obbax
+side = both
+version = 0.4

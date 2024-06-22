@@ -1,0 +1,73 @@
+Projectiles.Explosion.DisplayName: Explosion
+
+Configs: {
+	ServerConfig: {
+		DisplayName: Server Config
+
+		modActive: {
+			Tooltip: ""
+			Label: mod Active
+		}
+
+		currentHeartrateLimit: {
+			Tooltip: ""
+			Label: current Heartrate Limit
+		}
+
+		baseHeartrateLimit: {
+			Tooltip: ""
+			Label: base Heartrate Limit
+		}
+
+		HeartrateLimit: {
+			Tooltip: ""
+			Label: Heartrate Limit
+		}
+
+		DeathMessages: {
+			Tooltip: ""
+			Label: Death Messages
+		}
+
+		WarningTextColor: {
+			Tooltip: ""
+			Label: Warning Text Color
+		}
+
+		WarningText: {
+			Tooltip: ""
+			Label: Warning Text
+		}
+
+		Headers: {
+			Customization: Customization Header
+			ExplosionConfig: Explosion Config Header
+			ImportantValues: Important Values Header
+		}
+
+		Size: {
+			Tooltip: ""
+			Label: Size
+		}
+
+		KillNPCs: {
+			Tooltip: ""
+			Label: Kill N P Cs
+		}
+
+		KillEnemies: {
+			Tooltip: ""
+			Label: Kill Enemies
+		}
+
+		Damage: {
+			Tooltip: ""
+			Label: Damage
+		}
+
+		Port: {
+			Tooltip: ""
+			Label: Port
+		}
+	}
+}
